@@ -13,12 +13,12 @@
 6. index.js renders the page.
 
 Requirements:
+- Build a Airbnb Experiences clone using React according to the <a href="https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=0%3A1">Figma file</a>
+- Reusable Components
+- React Props
+- array .map()
+- Conditional Rendering
+- Styling with Classes
 
-Build a Airbnb Experiences clone using React according to the Figma file
-Reusable Components
-React Props
-array .map()
-Conditional Rendering
-Styling with Classes
 
 ## `npm start`
